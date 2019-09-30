@@ -1,4 +1,4 @@
-# by Max Huber
+# by Max Huber on 9/30
 # init variables
 word = input("Enter word: ")
 vowels = ['a','e','i','o','u','y']
